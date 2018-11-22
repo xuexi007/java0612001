@@ -21,7 +21,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.offcn.po.Sc;
 import com.offcn.service.ScService;
-
+//******************************************************************************
 public class CatSc {
 
 	public static void main(String[] args) {
